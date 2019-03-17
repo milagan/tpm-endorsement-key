@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Text;
 using Microsoft.Azure.Devices.Provisioning.Security;
-using Microsoft.Azure.Devices.Shared;
 
 namespace tpm_endorsement_key
 {
